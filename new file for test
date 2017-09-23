@@ -1,0 +1,14 @@
+ we have  a  new test 
+ 
+ maybe the first file for myself
+ 
+ 
+ <scritp>
+ (function(){
+    
+    var date = New Date ;
+    alert("date");
+ 
+ })()
+ 
+ </script>
